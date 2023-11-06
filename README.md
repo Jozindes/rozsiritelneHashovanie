@@ -5,7 +5,7 @@ _Ide o jednoduchý informačný systém pracujúci na princípe **rozšíriteľn
 
 **Popis systému:**
 
-_Tento informačný systém spravuje a ukladá dáta o nehnuteľnostiach do blokov v súboroch na pevnom disku. Pri práci s dátami sú kľúčové atribúty transofrmované na hash, na základe ktorého sa podľa určených pravidiel vyberie blok, s ktorým sa bude pracovať. V prípade, že sa základný súbor s blokmi naplní, resp. došlo k maximálnemu možnému deleniu blokov, tak sa dáta začnú ukladať do blokov v preplňovacom súbore. Jednou z úloh tejto semestrálnej práce bolo popísať počet prístupov do súborov pri jednotlivých funkcionalitách._
+_Tento informačný systém spravuje a ukladá dáta o nehnuteľnostiach do blokov v súboroch na pevnom disku. Pri práci s dátami sú kľúčové atribúty transformované na hash, na základe ktorého sa podľa určených pravidiel vyberie blok, s ktorým sa bude pracovať. V prípade, že sa základný súbor s blokmi naplní, resp. došlo k maximálnemu možnému deleniu blokov, tak sa dáta začnú ukladať do blokov v preplňovacom súbore. Jednou z úloh tejto semestrálnej práce bolo popísať počet prístupov do súborov pri jednotlivých funkcionalitách._
 
 -------------------
 
