@@ -45,3 +45,4 @@ _Ak sú dáta v bloku, ktorý sa nachádza v základnom súbore: 1 čítanie a
 
 _Ak sú dáta v bloku, ktorý sa nachádza v preplňujúcom súbore: 1 čítanie základnom súbore, X čítanií a 1 zápis v preplňujúcom súbore (X – počet blokov, ktoré boli načítané do pamäte, kým sa nenašli hľadané dáta)_
 
+**AKÉKOĽVEK KOPÍROVANIE ČASTÍ ALEBO CELÉHO ZDROJOVÉHO KÓDU JE ZAKÁZANÉ!**
